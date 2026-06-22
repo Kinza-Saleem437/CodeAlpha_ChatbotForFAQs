@@ -1,0 +1,42 @@
+[
+  {
+    "question": "How many tasks do I need to complete?",
+    "answer": "You need to complete any 2 or 3 out of the 4 tasks listed. Submitting only one task will be considered incomplete and certificates will not be issued."
+  },
+  {
+    "question": "What is Task 1 about?",
+    "answer": "Task 1 is Language Translation Tool. You create a UI where user enters text, selects languages, and gets translated output using translation APIs like Google Translate."
+  },
+  {
+    "question": "What is Task 2 about?",
+    "answer": "Task 2 is Chatbot for FAQs. Build a chatbot that handles FAQs on a chosen topic. It should identify user questions and provide predefined answers using NLP techniques."
+  },
+  {
+    "question": "How to submit the task?",
+    "answer": "1. Upload code to GitHub in repo named CodeAlpha_ProjectName. 2. Submit via the Submission Form shared in WhatsApp group. 3. Post a video explanation on LinkedIn tagging @CodeAlpha."
+  },
+  {
+    "question": "What will I get after completing internship?",
+    "answer": "You will get: 1) Completion Certificate with QR verification, 2) Unique ID Certificate, 3) Letter of Recommendation based on performance, 4) Job Opportunities/Placement Support, 5) Resume Building Support."
+  },
+  {
+    "question": "What is the deadline for tasks?",
+    "answer": "Complete the assigned projects within the mentioned time frame given in your internship offer letter or WhatsApp group. Check announcements regularly."
+  },
+  {
+    "question": "Can I use any programming language?",
+    "answer": "Yes, but Python is recommended for AI tasks. Task 1 and Task 2 work best with Python and Streamlit for quick deployment."
+  },
+  {
+    "question": "Do I need to make a LinkedIn video?",
+    "answer": "Yes, post a video explanation of your project on LinkedIn with GitHub repo link and tag @CodeAlpha as per the instructions."
+  },
+  {
+    "question": "Where to contact for help?",
+    "answer": "Website: www.codealpha.tech | WhatsApp: +91 9336576683 | Email: services@codealpha.tech or services.codealpha@gmail.com"
+  },
+  {
+    "question": "Is there any fee for certificate?",
+    "answer": "No, the internship and certificate are completely free. CodeAlpha does not charge any fee for completion certificates."
+  }
+]
